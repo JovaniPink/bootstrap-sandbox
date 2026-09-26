@@ -106,3 +106,6 @@ When your repository is generated, you won't see anything in the Actions tab unt
 ## Copyright
 
 &copy; @mdo 2020 and licensed MIT.
+
+Repository: [JovaniPink/bootstrap-sandbox](https://github.com/JovaniPink/bootstrap-sandbox). Local checkout: `bootstrap-sandbox`.
+This checkout is a personal Bootstrap sandbox derived from the upstream starter; upstream project names and attribution remain unchanged.
